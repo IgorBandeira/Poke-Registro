@@ -26,7 +26,31 @@ Registre seu pokémon, preenchendo informações do seu nome original, seu apeli
 <hr>
 <br>
 <br>
-https://user-images.githubusercontent.com/106918230/216783414-33d6e702-1947-4fdf-ac4f-e09e991b0893.mp4
+
+<div align="center">
+
+![Poke](https://user-images.githubusercontent.com/106918230/216784955-b8014a16-8eff-4202-afbd-3f3aaae1be3b.png)
+<div/>
+
+<hr>
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://user-images.githubusercontent.com/106918230/216785482-1b1958a0-7351-4792-9433-5a534e3fa5ba.mp4
+
+
 
 
 
