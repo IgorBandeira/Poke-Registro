@@ -20,7 +20,6 @@ Registre seu pokémon, preenchendo informações do seu nome original, seu apeli
 <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/site_search/155.png" width=80 height=80> 
 <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/447.png" width=80 height=80> 
 <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/650.png" width=80 height=80> 
-<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/143.png" width=80 height=80> 
 <hr>
 <br>
 <br>
@@ -33,18 +32,6 @@ Registre seu pokémon, preenchendo informações do seu nome original, seu apeli
 <hr>
 <br>
 <br>
-
-
-
-
-
-
-
-
-
-
-
-
 
 https://user-images.githubusercontent.com/106918230/216785482-1b1958a0-7351-4792-9433-5a534e3fa5ba.mp4
 
