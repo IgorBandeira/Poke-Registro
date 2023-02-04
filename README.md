@@ -1,7 +1,7 @@
 # PokéRegistro ![image](https://user-images.githubusercontent.com/106918230/216780753-454da1a6-d634-40bd-b15e-409f7f7bd65a.png)
 
 # `React com JavaScript`
-Registre seu pokémon, preenchendo informações do seu nome original, seu apelido, sua imagem/foto e seu tipo, desse modo poderá visualizá-lo dando scroll na tela. Registre quantos e quais pokpemóns quiser, no fim você verá a lista completa de todos eles.
+Registre seu pokémon, preenchendo informações do seu nome original, seu apelido, sua imagem/foto e seu tipo, desse modo poderá visualizá-lo dando scroll na tela. Registre quantos e quais pokemóns quiser, no fim você verá a lista completa de todos eles.
 <br>
 <br>
 <strong>Divirta-se registrando seus pokémons!![6644-pikachurun](https://user-images.githubusercontent.com/106918230/216781656-9762c284-68f7-4cab-a13c-4bc40fc6b8a0.gif)
