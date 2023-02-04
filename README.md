@@ -12,15 +12,12 @@ Registre seu pokémon, preenchendo informações do seu nome original, seu apeli
 <br>
 <br>
 <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png" width=80 height=80> 
-<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/site_search/252.png" width=80 height=80> 
-<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/390.png" width=80 height=80> 
+<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/site_search/252.png" width=80 height=80>  
 <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/728.png" width=80 height=80> 
 <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/site_search/125.png" width=80 height=80> 
 <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/site_search/350.png" width=80 height=80> 
 <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/site_search/155.png" width=80 height=80> 
-<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/site_search/501.png" width=80 height=80> 
-<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/site_search/151.png" width=80 height=80> 
-<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/site_search/077.png" width=80 height=80> 
+<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/site_search/501.png" width=80 height=80>  
 <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/site_search/650.png" width=80 height=80> 
 <img src="https://assets.pokemon.com/assets/cms2/img/pokedex/site_search/447.png" width=80 height=80> 
 <hr>
