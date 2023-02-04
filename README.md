@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# PokéRegistro ![image](https://user-images.githubusercontent.com/106918230/216780753-454da1a6-d634-40bd-b15e-409f7f7bd65a.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# `React com JavaScript`
+Registre seu pokémon, preenchendo informações do seu nome original, seu apelido, sua imagem/foto e seu tipo, desse modo poderá visualizá-lo dando scroll na tela. Registre quantos e quais pokpemóns quiser, no fim você verá a lista completa de todos eles.
+<br>
+<br>
+<strong>Divirta-se registrando seus pokémons!![6644-pikachurun](https://user-images.githubusercontent.com/106918230/216781656-9762c284-68f7-4cab-a13c-4bc40fc6b8a0.gif)
+<strong/>
+<br>
+<br>
+`Link para acesso do PokéRegistro:` https://poke-registro.vercel.app
+<br>
+<br>
+<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png" width=80 height=80> 
+<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/site_search/252.png" width=80 height=80> 
+<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/390.png" width=80 height=80> 
+<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/detail/728.png" width=80 height=80> 
+<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/site_search/125.png" width=80 height=80> 
+<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/site_search/350.png" width=80 height=80> 
+<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/site_search/155.png" width=80 height=80> 
+<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/site_search/501.png" width=80 height=80> 
+<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/site_search/151.png" width=80 height=80> 
+<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/site_search/077.png" width=80 height=80> 
+<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/site_search/650.png" width=80 height=80> 
+<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/site_search/447.png" width=80 height=80> 
+<hr>
+<br>
+<br>
+https://user-images.githubusercontent.com/106918230/216783414-33d6e702-1947-4fdf-ac4f-e09e991b0893.mp4
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
