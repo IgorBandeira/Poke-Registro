@@ -16,3 +16,10 @@ form label,
 form h2 {
   color: #6278f7;
 }
+
+@media screen and (max-width: 760px) {
+  .formulario form {
+    max-width: 80%;
+    padding: 18px 32px;
+  }
+}

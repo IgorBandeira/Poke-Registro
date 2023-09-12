@@ -13,3 +13,9 @@
 .botao:hover {
   color: #e6e35c;
 }
+
+@media screen and (max-width: 760px) {
+  .botao {
+    padding: 16px;
+  }
+}

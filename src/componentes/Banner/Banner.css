@@ -7,3 +7,10 @@
   width: 30%;
   height: 30%;
 }
+
+@media screen and (max-width: 760px) {
+  .banner img {
+    width: 70%;
+    height: 70%;
+  }
+}

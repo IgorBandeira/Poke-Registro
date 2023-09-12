@@ -9,9 +9,7 @@ const ListaSuspensa = (props) => {
         required={props.required}
         value={props.valor}
       >
-        <option value="" disabled hidden selected>
-          Selecione o tipo do seu pokémon:
-        </option>
+        <option value="" disabled hidden selected></option>
         {props.itens.map((item) => {
           return <option key={item}>{item}</option>;
         })}
